@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: lightcoral;
+}
+
+#imageGallery {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+
+.gallery {
+    display: inline-block;
+    text-align: center;
+}
+
+input {
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+}
+
+#error-message {
+    color: red;
+    font-size: 14px;
+}
